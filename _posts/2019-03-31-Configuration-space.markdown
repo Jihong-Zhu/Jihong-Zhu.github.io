@@ -20,4 +20,6 @@ Normally for $$n$$ DoFs rigid bodies we can describe its c-space using $$n$$ lin
 We usually solve the problem by using more parameters with constraints to describe the c-space.
 
 # Non-holonomic constraints
- 
+$$n$$ holonomic constraints reduce the DoFs by $$n$$. Yet, there are also constraints that does not reduce the DoFs, and this kind of constraints are called non-holonomic constraints. Hereby give an example:
+
+![image](https://github.com/Jihong-Zhu/Jihong-Zhu.github.io/tree/master/_image/coin_rolling.png)
