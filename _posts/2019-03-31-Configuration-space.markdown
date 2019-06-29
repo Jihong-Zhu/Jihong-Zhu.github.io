@@ -22,4 +22,17 @@ We usually solve the problem by using more parameters with constraints to descri
 # Non-holonomic constraints
 $$n$$ holonomic constraints reduce the DoFs by $$n$$. Yet, there are also constraints that does not reduce the DoFs, and this kind of constraints are called non-holonomic constraints. Hereby give an example:
 
-![image](https://github.com/Jihong-Zhu/Jihong-Zhu.github.io/tree/master/_image/coin_rolling.png)
+![image](/asset/coin_rolling.png)
+
+The motion of the circle on the plane can be describe by 4 parameters:
+\\[
+  q = [x~y~\theta~\tau]^T
+\\]
+If we have a non-slipping condition on the movement, we are able to define constraints on the velocity of $$q$$:
+
+$$
+    \begin{bmatrix}
+      \dot{x} \\
+      \dot{y}
+    \end{bmatrix}
+$$
