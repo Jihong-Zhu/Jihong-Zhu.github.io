@@ -11,7 +11,8 @@ My research focuses on vision-based deformable objects manipulation.
 alt="" width="240" height="180" border="10" /></a>
 
 [Zhu J, Navarro B, Fraisse P, Crosnier A, Cherubini A. Dual-arm robotic manipulation of flexible cables. In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).](https://ieeexplore.ieee.org/abstract/document/8593780)
-# Contact-based shaping
+
+# Contact-based cable shaping
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=7CdNQ4R_wT0
 " target="_blank"><img src="http://img.youtube.com/vi/7CdNQ4R_wT0/0.jpg"
