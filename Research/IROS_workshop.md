@@ -1,4 +1,6 @@
 ---
+layout: page
+title: IROS workshop
 permalink: /research/IROS_workshop
 ---
 ## Managing Deformation: A Step Towards Higher Robot Autonomy
