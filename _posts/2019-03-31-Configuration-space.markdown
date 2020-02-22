@@ -4,7 +4,7 @@ title:  "Configuration space"
 date:   '2019-03-31'
 categories: Robotics
 ---
-<!-- <script type="text/javascript" async
+<script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
@@ -35,4 +35,4 @@ $$
       \dot{x} \\
       \dot{y}
     \end{bmatrix}
-$$ -->
+$$

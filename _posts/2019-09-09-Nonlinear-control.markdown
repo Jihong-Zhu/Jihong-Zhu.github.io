@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nonlinear stability"
-date:   '2019-08-17'
+date:   '2019-09-09'
 categories: Nonlinear Control
 ---
 <script type="text/javascript" async
