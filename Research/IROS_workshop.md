@@ -28,3 +28,4 @@ We propose a workshop to present and discuss new perspectives in managing deform
 
 # Confirmed Speakers
 - Prof. Kensuke Harada, Osaka University
+- Prof. Farshid Alambeigi, University of Texas at Austin
