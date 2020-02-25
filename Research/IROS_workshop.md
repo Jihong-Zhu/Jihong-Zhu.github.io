@@ -26,6 +26,9 @@ We propose a workshop to present and discuss new perspectives in managing deform
 - David Navarro-Alarcon, The Hong Kong Polytechnic University, Hong Kong
 - Claire Dune, Laboratoire COSMER, Université de Toulon, France
 
-# Confirmed Speakers
-- Prof. Kensuke Harada, Osaka University
-- Prof. Farshid Alambeigi, University of Texas at Austin
+# List of Speakers
+- Prof. Kensuke Harada, Osaka University (Confirmed)
+- Prof. Farshid Alambeigi, University of Texas at Austin (Confirmed)
+- Prof. Bruno Siciliano, Università degli Studi di Napoli Federico II (Confirmed)
+- Prof. Fanny Ficuciello, Università degli Studi di Napoli Federico II (Confirmed)
+- Prof. Akihiko Yamaguchi (Tentative)
