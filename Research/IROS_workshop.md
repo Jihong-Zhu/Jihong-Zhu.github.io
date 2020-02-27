@@ -31,4 +31,5 @@ We propose a workshop to present and discuss new perspectives in managing deform
 - Prof. Farshid Alambeigi, University of Texas at Austin (Confirmed)
 - Prof. Bruno Siciliano, Università degli Studi di Napoli Federico II (Confirmed)
 - Prof. Fanny Ficuciello, Università degli Studi di Napoli Federico II (Confirmed)
+- Prof. Jia Pan, University of HongKong (Confirmed)
 - Prof. Akihiko Yamaguchi,Tohoku University (Tentative)
