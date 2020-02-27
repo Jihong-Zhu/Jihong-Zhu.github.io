@@ -3,6 +3,7 @@ layout: page
 title: IROS workshop
 permalink: /research/IROS_workshop
 ---
+
 ## Managing Deformation: A Step Towards Higher Robot Autonomy
 We are in the process of migrating the workshop page to its official site at [Managing Deformation: A Step Towards Higher Robot Autonomy](https://www.lirmm.fr/recherche/equipes/idh/DefWorkshop)
 
