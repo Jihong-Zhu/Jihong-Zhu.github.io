@@ -78,6 +78,21 @@ All the screw symmetric matrices defined by $$\mathbf{w}$$ form a group we denot
 ## Exponential representation
 From what we discussed previously, instead of representing rotation with rotation matrix $$\mathbf{R}$$ which has 9 parameters, we can also express rotation as a unit vector $$\mathbf{\omega}$$ and the rotation angle $$\theta$$. This is what we refer to as exponential representation of rotation. We are interested in how to transform this representation back to rotation matrix.
 
+For a single vector $$\mathbf{x}$$ with the dynamic:
+\\[
+  \dot{\mathbf{x}} = \mathbf{A} \mathbf{x}
+\\]
+The solution to $$\mathbf{x}$$ is then: $$\mathbf{x}(t) = e^{\mathbf{A}t}\mathbf{x}_0$$, where $$\mathbf{x}_0$$ is the initial state vector.
+
+Similarly, we can solve for $$\mathbf{R}$$ from
+\\[
+  \dot{\mathbf{R}} = \[\mathbf{w}\] \mathbf{R}.
+\\]
+such that
+\\[
+  \mathbf{R} = e^{\[\mathbf{w}\]t}
+\\]
+
 ## Matrix logarithm of rotation
 Instead of transform exponential representation to rotation matrix, here we are interested in the reverse conversion.
 
