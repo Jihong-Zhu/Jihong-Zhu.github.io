@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Jihong Zhu is postdoctoral researcher at [Cognitive Robot](https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/), [TU Delft](https://www.tudelft.nl/en) working with [Prof. Jens Kober](http://www.jenskober.de/) and [Dr. Michael Gienger](https://scholar.google.de/citations?user=oU2jyxMAAAAJ&hl=en)([Honda Research Institute, Europe](https://www.honda-ri.de/)).
+Jihong Zhu is postdoctoral researcher at [Cognitive Robotics](https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/), [TU Delft](https://www.tudelft.nl/en) working with [Prof. Jens Kober](http://www.jenskober.de/) and [Dr. Michael Gienger](https://scholar.google.de/citations?user=oU2jyxMAAAAJ&hl=en)([Honda Research Institute, Europe](https://www.honda-ri.de/)).
 
 Jihong Zhu obtained his PhD at [LIRMM](http://www.lirmm.fr/) (Laboratoire d’Informatique, de Robotique et de Microélectronique de Montpellier) supervised by [Prof. Andrea Cherubini](http://www.lirmm.fr/lirmm_eng/users/utilisateurs-lirmm/andrea-cherubini), [Prof. Philippe Fraisse](http://janela2.lirmm.fr/~fraisse/home), and Prof. André Crosnier. His PhD committee includes: [Prof. François Chaumette](https://team.inria.fr/rainbow/team/francois-chaumette/), [Dr. Maximo A. Roa](https://rmc.dlr.de/rm/de/staff/maximo.roa/), [Prof. Veronique Perdereau](http://www.isir.upmc.fr/index.php?op=view_profil&lang=en&id=185), [Dr. Claire Dune](http://cosmer.univ-tln.fr/en/claire-dune-2/), and [Dr. David Navarro-Alarcon](https://www.polyu.edu.hk/me/david/).
 
