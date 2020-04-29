@@ -8,14 +8,14 @@ permalink: /research/IROS_workshop
 We are in the process of migrating the workshop page to its official site at [Managing Deformation: A Step Towards Higher Robot Autonomy](https://www.lirmm.fr/recherche/equipes/idh/DefWorkshop)
 
 # Objectives
-The capability to interact with deformable objects largely extends the autonomy of robots to perform complex tasks such as handling cables, shaping food materials, picking up agricultural products, performing surgical operations, folding clothes etc. These advanced skills can significantly contribute to the deployment of consumer robots, which is the central theme of the IROS 2020.
+The ability to interact with deformable objects of any scale is a prerequisite for advanced robot autonomy. Depending on the size of the object, the development of these skills may involve all the degrees of freedom of one or more robotics systems, and even the mobility of an active platform. These skills are necessary in multiple fields, ranging from grasping and handling of everyday objects (food, clothing, etc.) in consumer robotics, surgical robotic procedures (manipulating tissues, guiding flexible needles, etc), picking up of agricultural products, or movement of large flexible objects (such as cables, ropes, and tents).
 
 However, taking into account deformation introduces new challenges, in particular:
 - The complication of **sensing deformation**
 - The curse of **infinite dimensionality** of the deformation configuration
 - The complexity of **high nonlinearity** in modeling the deformation
 
-New paradigms are needed to tackle these challenges. Therefore, the aim of  this workshop is to discuss new research prospects considering the object’s deformation in various robotic applications.
+New paradigms are needed to address these challenges. Therefore, the aim of this workshop is to discuss new research prospects considering the object’s deformation in various robotic applications.
 
 We can sense deformation with different modalities, e.g. force/tactile measurements provide crucial information for grasping and manipulation, but, this feedback is only locally available. Vision, on the other hand, offers a global picture of shape deformation but is subjected to noise and occlusion. We seek **1) methods to robustly sense deformation**. Then, to address the problem of infinite dimensionality, we are interested in **2) compact feedback features for characterizing deformation**. Another possible direction is **3) exploiting environmental contact for reducing the deformation dimensions**. As for the high nonlinearity problem, we are interested in **4) data-driven/model-based/hybrid approaches to model deformation for control**.
 
