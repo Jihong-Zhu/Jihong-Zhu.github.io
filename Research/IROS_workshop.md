@@ -22,10 +22,10 @@ We can sense deformation with different modalities, e.g. force/tactile measureme
 We propose a workshop to present and discuss new perspectives in managing deformation as a step towards higher robot autonomy. The purpose of the workshop is to bring together researchers who have common interests in working with deformable objects in robotic applications. The previously-presented challenges and possible directions of research are not exhaustive. The organizers encourage participants to propose new challenges and solutions in the scope of managing deformation. The workshop will also be open to paper submission, and the final schedule will be adapted depending on the quantity and quality of the submissions. We will organize a poster session of the submitted papers to ease interaction and discussion between participants. At the end of the workshop, we will invite speakers to participate in a conclusive round table discussion.
 
 # Organizers
-- Jihong Zhu, LIRMM, France
-- Andrea Cherubini, LIRMM, France
+- Jihong Zhu, TU Delft/University of Montpellier, the Netherlands/France
+- Andrea Cherubini, University of Montpellier, France
 - David Navarro-Alarcon, The Hong Kong Polytechnic University, Hong Kong
-- Claire Dune, Laboratoire COSMER, Université de Toulon, France
+- Claire Dune, Université de Toulon, France
 
 # List of Speakers
 - Prof. Kensuke Harada, Osaka University (Confirmed)
