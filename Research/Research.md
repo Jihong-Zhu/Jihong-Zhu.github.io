@@ -3,10 +3,14 @@ layout: page
 title: Research
 permalink: /research/
 ---
+My research during my PhD focused on enabling robots to manipulate deformable object by visual feedback. My research produces two major outcomes
+- A **unified** method for manipulating deformable and rigid objects.
+- A **specific** industrial solution to contact-based cable routing. 
+
 ## Workshop organization
 IROS 2020 Workshop on [Managing Deformation: A Step Towards Higher Robot Autonomy](https://jihong-zhu.github.io/research/IROS_workshop)
 
-## Manipulation deformable and rigid objects
+## Manipulation of deformable and rigid object
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gYfO2ZxZ5KQ
 " target="_blank"><img src="http://img.youtube.com/vi/gYfO2ZxZ5KQ/0.jpg"
 alt="" width="240" height="180" border="10" /></a>
