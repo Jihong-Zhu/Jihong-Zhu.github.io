@@ -10,6 +10,7 @@ IROS 2020 Workshop on [Managing Deformation: A Step Towards Higher Robot Autonom
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gYfO2ZxZ5KQ
 " target="_blank"><img src="http://img.youtube.com/vi/gYfO2ZxZ5KQ/0.jpg"
 alt="" width="240" height="180" border="10" /></a>
+
 Zhu J, Navarro-Alarcon D, R. Passama, Cherubini A. **Vision-based Manipulation of Deformable and Rigid Objects Using Subspace Projections of 2D Contours** (submitted)
 
 ## Contact-based cable shaping
