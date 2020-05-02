@@ -6,7 +6,7 @@ permalink: /research/
 ## Workshop organization
 IROS 2020 Workshop on [Managing Deformation: A Step Towards Higher Robot Autonomy](https://jihong-zhu.github.io/research/IROS_workshop)
 
-## Unified frame for manipulating deformable and rigid objects
+## Manipulation deformable and rigid objects
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gYfO2ZxZ5KQ
 " target="_blank"><img src="http://img.youtube.com/vi/gYfO2ZxZ5KQ/0.jpg"
 alt="" width="240" height="180" border="10" /></a>
