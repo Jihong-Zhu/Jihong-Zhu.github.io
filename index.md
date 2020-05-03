@@ -4,7 +4,6 @@
 
 layout: home
 ---
-# Contact
 Dr. ir. Jihong Zhu
 
 Postdoctoral Researcher, [Cognitive Robotics](https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/)
