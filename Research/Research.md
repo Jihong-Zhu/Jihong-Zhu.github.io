@@ -3,9 +3,13 @@ layout: page
 title: Research
 permalink: /research/
 ---
+Currently, I am working on robotic assistive dressing as a post-doc at [Cognitive Robotics](https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/), [TU Delft](https://www.tudelft.nl/en) with [Prof. Jens Kober](http://www.jenskober.de/) and [Dr. Michael Gienger](https://scholar.google.de/citations?user=oU2jyxMAAAAJ&hl=en)([Honda Research Institute, Europe](https://www.honda-ri.de/)).
+
 My research during my PhD focused on enabling robots to manipulate deformable object by visual feedback. My research produces two major outcomes
 - A **unified** method for manipulating deformable and rigid objects.
-- A **specific** industrial solution to contact-based cable routing. 
+- A **specific** industrial solution to contact-based cable routing.
+
+My main collaborators are [Prof. Andrea Cherubini](http://www.lirmm.fr/lirmm_eng/users/utilisateurs-lirmm/andrea-cherubini) and [Dr. David Navarro-Alarcon](https://www.polyu.edu.hk/me/david/).  
 
 ## Workshop organization
 IROS 2020 Workshop on [Managing Deformation: A Step Towards Higher Robot Autonomy](https://jihong-zhu.github.io/research/IROS_workshop)
