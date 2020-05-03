@@ -9,7 +9,7 @@ My research during my PhD focused on enabling robots to manipulate deformable ob
 - A **unified** method for manipulating deformable and rigid objects.
 - A **specific** industrial solution to contact-based cable routing.
 
-My main collaborators are [Prof. Andrea Cherubini](http://www.lirmm.fr/lirmm_eng/users/utilisateurs-lirmm/andrea-cherubini) and [Dr. David Navarro-Alarcon](https://www.polyu.edu.hk/me/david/).  
+My main collaborators during my PhD are [Prof. Andrea Cherubini](http://www.lirmm.fr/lirmm_eng/users/utilisateurs-lirmm/andrea-cherubini) and [Dr. David Navarro-Alarcon](https://www.polyu.edu.hk/me/david/).  
 
 ## Workshop organization
 IROS 2020 Workshop on [Managing Deformation: A Step Towards Higher Robot Autonomy](https://jihong-zhu.github.io/research/IROS_workshop)
