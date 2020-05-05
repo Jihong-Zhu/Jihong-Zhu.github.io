@@ -15,3 +15,5 @@ Before joining LIRMM, he was a master student in Systems and Control at [TU Delf
 He did a research internship at [General Electric Global Research Center](https://www.ge.com/research/) in Munich under the supervision of [Dr. Medy Satria](https://www.linkedin.com/in/medy-satria-3090ba4/?originalSubdomain=de).
 
 Jihong obtained his bachelor degree with First class honours from [University of Birmingham](https://www.birmingham.ac.uk/) and [Huazhong University of Science and Technology](http://english.hust.edu.cn/) (Dual degree program). He worked at [Jaguar Land Rover](https://www.jaguarlandrover.com/) as an internship student during his bachelor.
+
+![image](/asset/logo.png)
