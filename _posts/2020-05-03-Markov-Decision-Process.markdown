@@ -83,4 +83,16 @@ After taking a certain action, we are going to end up in some new state $$s_{k +
   q(a_k) = r_k + \gamma \sum_{i = 1}^n p_i(s_{k + 1}(i)) v_i(s_{k + 1}(i))
 \\]
 
-This the expected reward at $$s_{k + 1}$$ times the discount factor + the immediate reward of leaving current state $$s_k$$.
+This is the expected reward at $$s_{k + 1}$$ times the discount factor + the immediate reward of leaving current state $$s_k$$.
+
+By combining the two equation above, we are able to write Bellman expectation equation for both state and action value function.
+
+Bellman expectation equation for state value function: Taking $$q(a_k)$$ into $$v(s_k)$$,
+\\[
+  v(s_k) = r_k + \gamma \sum_{j = 1}^m p_j(a_k(j)) \sum_{i = 1}^n p_i(s_{k + 1}(i)) v_i(s_{k + 1}(i))
+\\]
+
+Bellman expectation equation for action value function: Taking $$v(a_k)$$ into $$q(s_k)$$,
+\\[
+  q(a_k) = r_k + \gamma \sum_{j = 1}^n p_j(s_{k + 1}(j)) \sum_{i = 1}^m p_i(a_k(i)) q(a_k(i))
+\\]
