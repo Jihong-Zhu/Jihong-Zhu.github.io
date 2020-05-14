@@ -33,10 +33,15 @@ We do policy iteration by:
 3. Re-do step 1 and 2 until there is no change in the policy.
 4. Eureka! We find the optimal policy.
 
-## Value Iteration
+# Modification:
 Note with policy iteration, we need to act after we finish the whole policy evaluation process which is also iterative.
 
-In value iteration, instead of wait until policy evaluation converges, we simply act greedy after each update of the expected reward in policy evaluation. We continue this until there is no change in the policy. And Eureka! We find the optimal policy.
+Instead of wait until policy evaluation converges, do we need to wait for it to converge?
+
+The answer is no. We could simply act greedy after $$k$$ steps (when $$k = 1$$ this is equivalent to value iteration) update of the expected reward in policy evaluation. We continue this until there is no change in the policy. And Eureka! We find the optimal policy.
+
+## Value Iteration
+In value iteration, there is no specific policy for evaluation. We simply iterative find the value function of the given MDP based on Bellman optimality equation. Then act according the the final value function.
 
 ## Important Note
 **_Here solving the MDP means that we know the full dynamics of MDP. This is usually not the case in the real-world problems. Therefore in the next post I will try to explain the method for solving MDP without a model._**
