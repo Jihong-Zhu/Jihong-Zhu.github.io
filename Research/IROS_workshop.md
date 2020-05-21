@@ -30,8 +30,8 @@ We propose a workshop to present and discuss new perspectives in managing deform
 # List of Speakers
 - Prof. Kensuke Harada, Osaka University (Confirmed)
 - Prof. Farshid Alambeigi, University of Texas at Austin (Confirmed)
-- Prof. Bruno Siciliano, Università degli Studi di Napoli Federico II (Confirmed)
-- Prof. Fanny Ficuciello, Università degli Studi di Napoli Federico II (Confirmed)
+- Prof. Bruno Siciliano/Prof. Fanny Ficuciello, Università degli Studi di Napoli Federico II (Confirmed)
+- Prof. Mathew Schwartz, New Jersey Institute of Technology (Confirmed)
 - Prof. Dmitry Berenson, University of Michigan (Confirmed)
 - Prof. Jia Pan, University of HongKong (Confirmed)
 - Prof. Youcef Mezouar, Institut Pascal (Confirmed)
