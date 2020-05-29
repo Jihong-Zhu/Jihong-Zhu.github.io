@@ -2,8 +2,7 @@
 layout: default
 permalink: /research/master-thesis/
 ---
-# Master thesis proposal
-
+Proposal for master thesis
 ## Soft manipulation
 The ability to manipulate soft deformable objects of any scale is a prerequisite for advanced robot autonomy. The application of soft manipulation ranging from grasping and handling of everyday objects (food, clothing, etc.) in consumer robotics, surgical robotic procedures (manipulating tissues, guiding flexible needles, etc), picking up of agricultural products, or movement of large flexible objects (such as cables, ropes, and tents).
 
