@@ -35,5 +35,6 @@ We propose a workshop to present and discuss new perspectives in managing deform
 - Prof. Dmitry Berenson, University of Michigan (Confirmed)
 - Prof. Jia Pan, University of HongKong (Confirmed)
 - Prof. Youcef Mezouar, Institut Pascal (Confirmed)
+- Prof. Wenzhen Yuan, Carnegie Mellon University (Confirmed)
 - Prof. Carme Torras, CSIC-UPC (Tentative)
 - Prof. Akihiko Yamaguchi, Tohoku University (Tentative)
