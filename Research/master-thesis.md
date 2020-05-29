@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /research/master-thesis/
 ---
 # Master thesis proposal
