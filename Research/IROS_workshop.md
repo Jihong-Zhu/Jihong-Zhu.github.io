@@ -28,13 +28,15 @@ We propose a workshop to present and discuss new perspectives in managing deform
 - Claire Dune, Université de Toulon, France
 
 # List of Speakers
-- Prof. Kensuke Harada, Osaka University (Confirmed)
 - Prof. Farshid Alambeigi, University of Texas at Austin (Confirmed)
-- Prof. Bruno Siciliano/Prof. Fanny Ficuciello, Università degli Studi di Napoli Federico II (Confirmed)
-- Prof. Mathew Schwartz, New Jersey Institute of Technology (Confirmed)
 - Prof. Dmitry Berenson, University of Michigan (Confirmed)
-- Prof. Jia Pan, University of HongKong (Confirmed)
+- Prof. Jeannette Bohg, Stanford University (Confirmed)
+- Dr. Frederic Colledani, French Alternative Energies and Atomic Energy Commission (CEA)
+- Prof. Fanny Ficuciello/Prof. Bruno Siciliano, Università degli Studi di Napoli Federico II (Confirmed)
+- Prof. Kensuke Harada, Osaka University (Confirmed)
 - Prof. Youcef Mezouar, Institut Pascal (Confirmed)
+- Prof. Jia Pan, University of Hong Kong (Confirmed)
+- Prof. Mathew Schwartz, New Jersey Institute of Technology (Confirmed)
 - Prof. Wenzhen Yuan, Carnegie Mellon University (Confirmed)
 - Prof. Carme Torras, CSIC-UPC (Tentative)
 - Prof. Akihiko Yamaguchi, Tohoku University (Tentative)
