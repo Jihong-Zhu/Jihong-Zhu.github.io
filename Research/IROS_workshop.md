@@ -31,7 +31,7 @@ We propose a workshop to present and discuss new perspectives in managing deform
 - Prof. Farshid Alambeigi, University of Texas at Austin (Confirmed)
 - Prof. Dmitry Berenson, University of Michigan (Confirmed)
 - Prof. Jeannette Bohg, Stanford University (Confirmed)
-- Dr. Frederic Colledani, French Alternative Energies and Atomic Energy Commission (CEA)
+- Dr. Frederic Colledani, CEA (Confirmed)
 - Prof. Fanny Ficuciello/Prof. Bruno Siciliano, Università degli Studi di Napoli Federico II (Confirmed)
 - Prof. Kensuke Harada, Osaka University (Confirmed)
 - Prof. Youcef Mezouar, Institut Pascal (Confirmed)
