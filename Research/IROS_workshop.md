@@ -5,7 +5,7 @@ permalink: /research/IROS_workshop
 ---
 
 ## Managing Deformation: A Step Towards Higher Robot Autonomy
-We are in the process of migrating the workshop page to its official site at [Managing Deformation: A Step Towards Higher Robot Autonomy](https://www.lirmm.fr/recherche/equipes/idh/DefWorkshop)
+We are in the process of migrating the workshop page to its official site at [Managing Deformation: A Step Towards Higher Robot Autonomy](https://sites.google.com/view/madef-iros2020/home)
 
 # Objectives
 The ability to interact with deformable objects of any scale is a prerequisite for advanced robot autonomy. Depending on the size of the object, the development of these skills may involve all the degrees of freedom of one or more robotics systems, and even the mobility of an active platform. These skills are necessary in multiple fields, ranging from grasping and handling of everyday objects (food, clothing, etc.) in consumer robotics, surgical robotic procedures (manipulating tissues, guiding flexible needles, etc), picking up of agricultural products, or movement of large flexible objects (such as cables, ropes, and tents).
