@@ -12,4 +12,6 @@ Postdoctoral Researcher, [Cognitive Robotics](https://www.tudelft.nl/en/3me/abou
 
 [Delft University of Technology (TU Delft)](https://www.tudelft.nl/en)
 
+Aside from my own research, I would like to make robot dribbling the basketball, will work on it in my spare time
+
 Contact: j.zhu-3(at)tudelft(dot)nl
