@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: home
 title: About
-permalink: /about/
 ---
 Jihong Zhu is a postdoctoral researcher at [Cognitive Robotics](https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/), [TU Delft](https://www.tudelft.nl/en) working with [Prof. Jens Kober](http://www.jenskober.de/) and [Dr. Michael Gienger](https://scholar.google.de/citations?user=oU2jyxMAAAAJ&hl=en)([Honda Research Institute, Europe](https://www.honda-ri.de/)).
 
