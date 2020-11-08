@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: home
 ---
 Dr. ir. Jihong Zhu
 
@@ -17,4 +17,4 @@ Contact: j.zhu-3(at)tudelft(dot)nl
 
 
 # News
-* Jihong will serve as Associate Editor of [ICRA 2021](http://www.icra2021.org/) 
+* Jihong will serve as Associate Editor of [ICRA 2021](http://www.icra2021.org/)
