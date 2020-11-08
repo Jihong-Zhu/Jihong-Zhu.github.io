@@ -17,4 +17,4 @@ Contact: j.zhu-3(at)tudelft(dot)nl
 
 
 # News
-* Jihong will serve as Associate Editor of [ICRA 2021](http://www.icra2021.org/)
+* Jihong will serve as Associate Editor for [ICRA 2021](http://www.icra2021.org/)
