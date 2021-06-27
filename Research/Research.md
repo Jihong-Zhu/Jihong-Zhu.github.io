@@ -12,7 +12,11 @@ My research during my PhD focused on enabling robots to manipulate deformable ob
 My main collaborators during my PhD are [Prof. Andrea Cherubini](http://www.lirmm.fr/lirmm_eng/users/utilisateurs-lirmm/andrea-cherubini) and [Dr. David Navarro-Alarcon](https://www.polyu.edu.hk/me/david/).  
 
 ## Workshop organization
+IROS 2021 Workshop on [Robotic Manipulation of Deformable Objects in Real-world Applications (RoMaDO-RA)](https://adkoessler.github.io/romadora-workshop/)
+
 IROS 2020 Workshop on [Managing Deformation: A Step Towards Higher Robot Autonomy](https://sites.google.com/view/madef-iros2020/home)
+
+
 
 A trailer video that compiles some of the works in the field of research:
 <a href="https://youtu.be/SF4w9OWWLqc"
@@ -24,7 +28,7 @@ alt="" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/gYfO2ZxZ5KQ/0.jpg"
 alt="" width="240" height="180" border="10" /></a>
 
-Zhu J, Navarro-Alarcon D, R. Passama, Cherubini A. [Vision-based Manipulation of Deformable and Rigid Objects Using Subspace Projections of 2D Contours](https://arxiv.org/pdf/2006.09023.pdf) (submitted)
+Zhu J, Navarro-Alarcon D, R. Passama, Cherubini A. [Vision-based Manipulation of Deformable and Rigid Objects Using Subspace Projections of 2D Contours](https://arxiv.org/pdf/2006.09023.pdf), Robotics and Autonomous Systems.
 
 ## Contact-based cable shaping
 
